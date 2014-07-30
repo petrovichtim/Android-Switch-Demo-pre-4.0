@@ -1,5 +1,6 @@
 package com.appscumen.example;
 
+
 import com.appscumen.example.MySwitch.OnChangeAttemptListener;
 
 import android.app.Activity;
