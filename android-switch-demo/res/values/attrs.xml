@@ -79,8 +79,8 @@
         <attr name="textColorHint" format="color" />
         <!-- Color of the links. -->
         <attr name="textColorLink" format="color" />
-        <!-- Present the text in ALL CAPS. This may use a small-caps form when available. -->
-        <attr name="textAllCaps" format="boolean" />
+        <!-- Present the text in ALL CAPS. This may use a small-caps form when available.  -->
+       <attr name="textAllCaps" format="boolean" />
     </declare-styleable>
     <!-- Default style for the Switch widget. -->
     <attr name="mySwitchStyleAttr" format="reference" />
