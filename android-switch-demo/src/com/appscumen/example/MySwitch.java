@@ -999,7 +999,7 @@ public class MySwitch extends CompoundButton {
             final int switchInnerTop = mSwitchTop + mTrackPaddingRect.top;
             //final int switchInnerRight = mSwitchRight - mTrackPaddingRect.right;
             final int switchInnerBottom = mSwitchBottom - mTrackPaddingRect.bottom;
-            final int switchVerticalMid = (switchInnerTop + switchInnerBottom) / 2;
+			final int switchVerticalMid = (switchInnerTop + switchInnerBottom) / 2;
             final int maxTextWidth = Math.max(mOnLayout.getWidth(), mOffLayout.getWidth());
             final int maxTextHeight = Math.max(mOnLayout.getHeight(), mOffLayout.getHeight());
             int width = maxTextWidth * 2 +
